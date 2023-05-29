@@ -1,0 +1,15 @@
+C:\Users\RaimundoLima\source\repos\githubAPI\github.Service\obj\Debug\net6.0\github.Service.csproj.AssemblyReference.cache
+C:\Users\RaimundoLima\source\repos\githubAPI\github.Service\obj\Debug\net6.0\github.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RaimundoLima\source\repos\githubAPI\github.Service\obj\Debug\net6.0\github.Service.AssemblyInfoInputs.cache
+C:\Users\RaimundoLima\source\repos\githubAPI\github.Service\obj\Debug\net6.0\github.Service.AssemblyInfo.cs
+C:\Users\RaimundoLima\source\repos\githubAPI\github.Service\obj\Debug\net6.0\github.Service.csproj.CoreCompileInputs.cache
+C:\Users\RaimundoLima\source\repos\githubAPI\github.Service\bin\Debug\net6.0\github.Service.deps.json
+C:\Users\RaimundoLima\source\repos\githubAPI\github.Service\bin\Debug\net6.0\github.Service.dll
+C:\Users\RaimundoLima\source\repos\githubAPI\github.Service\bin\Debug\net6.0\github.Service.pdb
+C:\Users\RaimundoLima\source\repos\githubAPI\github.Service\bin\Debug\net6.0\github.Domain.dll
+C:\Users\RaimundoLima\source\repos\githubAPI\github.Service\bin\Debug\net6.0\github.Domain.pdb
+C:\Users\RaimundoLima\source\repos\githubAPI\github.Service\obj\Debug\net6.0\github.Service.csproj.CopyComplete
+C:\Users\RaimundoLima\source\repos\githubAPI\github.Service\obj\Debug\net6.0\github.Service.dll
+C:\Users\RaimundoLima\source\repos\githubAPI\github.Service\obj\Debug\net6.0\refint\github.Service.dll
+C:\Users\RaimundoLima\source\repos\githubAPI\github.Service\obj\Debug\net6.0\github.Service.pdb
+C:\Users\RaimundoLima\source\repos\githubAPI\github.Service\obj\Debug\net6.0\ref\github.Service.dll
