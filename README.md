@@ -1,9 +1,9 @@
 # githubAPI
-Apóes clonar é preciso alterar no appsettings as variaveis 
+Após clonar é preciso alterar no appsettings as variaveis 
   "Token": ""
   "ProductHeaderValue": ""
 
-(esse token não é mais valido) após isso deve estar funcionando tudo corretamente
+após isso deve estar funcionando tudo corretamente
 O Teste contem
 
 ● Criação de repositório;
